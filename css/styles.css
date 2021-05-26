@@ -922,6 +922,7 @@ body {
 }
 
 .modal-form-check-desk {
+  align-items: center;
   display: flex;
   justify-content: center;
   font-size: 14px;
